@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "  y",
+    " x ",
+    "x  "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "tag": "forge:rods/wooden"
+    },
+    "y":
+    {
+      "item": "minecraft:blast_furnace"
+    }
+  },
+  "result":
+  {
+    "item": "warpstaffs:item_wood_staff"
+  }
+}

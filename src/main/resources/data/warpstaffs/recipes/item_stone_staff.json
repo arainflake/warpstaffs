@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "  y",
+    " x ",
+    "x  "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "tag": "forge:rods/wooden"
+    },
+    "y":
+    {
+      "item": "minecraft:smooth_stone"
+    }
+  },
+  "result":
+  {
+    "item": "warpstaffs:item_stone_staff"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "warpstaffs:item/item_warp_staff",
+  "textures": {
+    "layer0": "warpstaffs:item/warpstaff_diamond"
+  }
+}

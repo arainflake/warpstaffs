@@ -1,0 +1,9 @@
+{
+  "item.warpstaffs.item_wood_staff": "Wood Staff",
+  "item.warpstaffs.item_stone_staff": "Stone Staff",
+  "item.warpstaffs.item_iron_staff": "Iron Staff",
+  "item.warpstaffs.item_diamond_staff": "Diamond Staff",
+  "item.warpstaffs.item_star_staff": "Star Staff",
+  "item.warpstaffs.item_furno_staff": "Furno Staff",
+  "itemGroup.warpstaffs": "Warp Staffs"
+}
